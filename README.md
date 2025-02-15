@@ -4,7 +4,8 @@ This project is a simple web application that changes the background color of th
 
 ## Demo
 
-https://github.com/user-attachments/assets/80f8a319-261d-4716-8d7c-4d4be8177297
+https://github.com/user-attachments/assets/9468573e-6f07-4bb5-81aa-4282679bdb65
+
 
 ## How to Use
 
